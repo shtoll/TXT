@@ -1,1 +1,6 @@
-
+   ID  - 0001,
+   Title  -  Site pages do not open (white background / 404 / 50X error is shown) ,
+   Steps  -  1. *** 2. *** ... 7. *** ,
+   Actual result  -  the result we see ,
+   Expected result  -  the result we wanted/expected to see ,
+   Severity  -  Trivial   Minor   Major   Critical   Blocker 

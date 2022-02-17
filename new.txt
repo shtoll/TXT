@@ -1,0 +1,4 @@
+name - German
+surname - Shtolle
+pets - Not
+future salary - 10.000ye
